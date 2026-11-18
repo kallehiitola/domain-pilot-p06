@@ -5,6 +5,9 @@
 ## Calculator
 - [Open the calculator](https://calculationgrove.com/): A 180 cm track at 2× fullness needs 360 cm flat width. Four 140 cm panels are required when purchasing even pairs.
 
+## Guide
+- [How to how many curtain panels do i need](https://calculationgrove.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+
 ## Method
 Multiply track or pole width by desired fullness to find the target combined flat width. Divide by finished panel width and round up. If buying equal pairs, round an odd panel count up to the next even count. Actual fullness is purchased flat width divided by track width.
 
