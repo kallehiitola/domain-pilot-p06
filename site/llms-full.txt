@@ -1,4 +1,4 @@
-# How many curtain panels do i need
+# How many curtain panels do I need?
 
 > Turn curtain track width, desired fullness and finished panel width into a whole-panel purchase count. See the actual fullness after rounding instead of assuming the target is exact.
 
@@ -6,7 +6,7 @@
 - [Open the calculator](https://calculationgrove.com/): A 180 cm track at 2× fullness needs 360 cm flat width. Four 140 cm panels are required when purchasing even pairs.
 
 ## Guide
-- [How to how many curtain panels do i need](https://calculationgrove.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+- [How to work out how many curtain panels you need](https://calculationgrove.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
 
 ## Method
 Multiply track or pole width by desired fullness to find the target combined flat width. Divide by finished panel width and round up. If buying equal pairs, round an odd panel count up to the next even count. Actual fullness is purchased flat width divided by track width.
@@ -21,6 +21,17 @@ Measure the track or pole, not just the glass. The appropriate fullness depends 
 ## Sources
 - [John Lewis: curtain measuring and buying guide](https://www.johnlewis.com/buying-guides/curtains-buying-guide)
 - [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+
+## Step by step
+1. Measure the full width of the track or pole, not just the window.
+2. Choose the fullness for your heading type. Gathered headings need more fabric across the pole than flat ones; check the heading maker's guidance.
+3. Read the flat width of one finished panel from the label.
+4. Multiply the pole width by the fullness, divide by the panel width and round up. Buy an even number if the curtains open in the middle.
+
+## Common mistakes
+- Measuring the window glass instead of the track or pole.
+- Ordering panels to match the pole width with no fullness, so the curtains look flat and may not close.
+- Forgetting extra width for curtains that wrap round the pole ends or overlap in the middle.
 
 ## Worked examples
 ### Example 1
