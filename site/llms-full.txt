@@ -1,41 +1,58 @@
 # How many curtain panels do I need?
 
-> Turn curtain track width, desired fullness and finished panel width into a whole-panel purchase count. See the actual fullness after rounding instead of assuming the target is exact.
+> Convert curtain pole or track width, heading fullness ratio, and single-panel flat width into a whole-panel order count—and inspect the actual fullness after rounding.
 
 ## Calculator
-- [Open the calculator](https://calculationgrove.com/): A 180 cm track at 2× fullness needs 360 cm flat width. Four 140 cm panels are required when purchasing even pairs.
+- [Open the calculator](https://calculationgrove.com/): US window: a 72 in rod at 2× fullness needs 144 in flat width; with 50 in panels in even pairs, order 4 panels (200 in flat width, 2.78× fullness). Metric: a 180 cm track at 2× fullness needs 360 cm flat width; buying even pairs of 140 cm panels requires 4 panels (3.11× actual fullness).
 
 ## Guide
-- [How to work out how many curtain panels you need](https://calculationgrove.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
+- [How to work out how many curtain panels you need](https://calculationgrove.com/guide/): step-by-step measuring, common mistakes, and ordering checklist.
 
-## Method
-Multiply track or pole width by desired fullness to find the target combined flat width. Divide by finished panel width and round up. If buying equal pairs, round an odd panel count up to the next even count. Actual fullness is purchased flat width divided by track width.
+## Formula and method
+Target flat width = track width × desired fullness; Panels = ceiling(target flat width / panel width) (rounded up to next even number for center-opening pairs); Actual fullness = (panels × panel width) / track width.
+
+Multiply the full curtain rod or track width by your desired fullness multiplier to get the target combined flat width. Divide by the flat finished width of one panel and round up. When buying symmetrical pairs, increment any odd result by one panel, then recompute actual fullness.
 
 ## Limits
-Measure the track or pole, not just the glass. The appropriate fullness depends on heading style and fabric; check the supplier’s guidance. Panel width here is flat finished width. This does not calculate drop, hems or fabric yardage.
+Measure the full rod between finials or full track length, not just window glass. Blackout wraparound returns, center overlap, extra-thick thermal linings, and finished drop length are separate measurements.
 
 ## Supporting pages
 - [Method and assumptions](https://calculationgrove.com/method/)
 - [About, editorial responsibility and privacy](https://calculationgrove.com/about/)
 
 ## Sources
-- [John Lewis: curtain measuring and buying guide](https://www.johnlewis.com/buying-guides/curtains-buying-guide)
+- [Wikipedia: Window treatment styles and drapery](https://en.wikipedia.org/wiki/Window_treatment)
+- [Wikipedia: Curtain headings and fullness](https://en.wikipedia.org/wiki/Curtain)
 - [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
 
+## Curtain heading styles, typical fullness, and standard panel widths
+
+Ready-made US panels commonly measure 50 to 54 in flat width; UK ready-made widths are typically 46, 66, or 90 in per panel.
+
+| Heading style | Recommended fullness | Look when closed | Common retail panel width |
+| --- | --- | --- | --- |
+| Eyelet / grommet | 1.5× – 2.0× | Deep, crisp modern waves | 50–54 in (132–140 cm) |
+| Tab top / back tab | 1.5× – 2.0× | Relaxed casual pleats | 50–52 in (127–135 cm) |
+| Wave / ripplefold | 1.8× – 2.2× | Uniform architectural S-folds | Custom or 54 in+ |
+| Rod pocket | 2.0× – 2.5× | Soft gathered folds | 50–54 in (127–140 cm) |
+| Pencil / pinch pleat | 2.0× – 2.5× | Tailored formal drapery | 46, 66, or 90 in (UK) / 50 in+ (US) |
+| Sheer panels | 2.5× – 3.0× | Airy layered privacy | 52–59 in (132–150 cm) |
+
 ## Step by step
-1. Measure the full width of the track or pole, not just the window.
-2. Choose the fullness for your heading type. Gathered headings need more fabric across the pole than flat ones; check the heading maker's guidance.
-3. Read the flat width of one finished panel from the label.
-4. Multiply the pole width by the fullness, divide by the panel width and round up. Buy an even number if the curtains open in the middle.
+1. Measure the total width of the curtain pole (between finials) or track—not the window glass alone. Standard rods extend 6 to 12 in (15 to 30 cm) past each side of the frame.
+2. Pick a fullness multiplier for your heading style: 1.5× to 2× for tailored grommet or eyelet headings, and 2× to 2.5× for rod-pocket, pencil-pleat, or pinch-pleat drapes.
+3. Read the flat width of a single finished panel on the package (common US ready-made panels are 50 or 52 in wide; UK panels are often 46, 66, or 90 in).
+4. Keep the even-pairs option checked for center-opening windows so both sides hang symmetrically.
 
 ## Common mistakes
-- Measuring the window glass instead of the track or pole.
-- Ordering panels to match the pole width with no fullness, so the curtains look flat and may not close.
-- Forgetting extra width for curtains that wrap round the pole ends or overlap in the middle.
+- Measuring only the glass width, which leaves light leaks and blocks daylight when curtains are pulled open.
+- Assuming "1× fullness" covers a window neatly. Flat panels stretch tight like a sheet and rarely meet cleanly in the center.
+- Forgetting return and overlap width on wraparound blackout rods or heavy lined drapes.
+- Mixing up pair width with single-panel width when reading online retail product listings.
 
 ## Worked examples
 ### Example 1
-A 180 cm track at 2× fullness needs 360 cm flat width. Four 140 cm panels are required when purchasing even pairs.
+Metric: a 180 cm track at 2× fullness needs 360 cm flat width; buying even pairs of 140 cm panels requires 4 panels (3.11× actual fullness).
 
 ### Example 2
-If individual panels are allowed, 3 panels supply 420 cm and give about 2.33× fullness.
+US window: a 72 in rod at 2× fullness needs 144 in flat width; with 50 in panels in even pairs, order 4 panels (200 in flat width, 2.78× fullness).

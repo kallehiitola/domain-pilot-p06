@@ -1,23 +1,26 @@
 # How many curtain panels do I need?
 
-> Turn curtain track width, desired fullness and finished panel width into a whole-panel purchase count. See the actual fullness after rounding instead of assuming the target is exact.
+> Convert curtain pole or track width, heading fullness ratio, and single-panel flat width into a whole-panel order count—and inspect the actual fullness after rounding.
 
 ## Calculator
-- [Open the calculator](https://calculationgrove.com/): A 180 cm track at 2× fullness needs 360 cm flat width. Four 140 cm panels are required when purchasing even pairs.
+- [Open the calculator](https://calculationgrove.com/): US window: a 72 in rod at 2× fullness needs 144 in flat width; with 50 in panels in even pairs, order 4 panels (200 in flat width, 2.78× fullness). Metric: a 180 cm track at 2× fullness needs 360 cm flat width; buying even pairs of 140 cm panels requires 4 panels (3.11× actual fullness).
 
 ## Guide
-- [How to work out how many curtain panels you need](https://calculationgrove.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
+- [How to work out how many curtain panels you need](https://calculationgrove.com/guide/): step-by-step measuring, common mistakes, and ordering checklist.
 
-## Method
-Multiply track or pole width by desired fullness to find the target combined flat width. Divide by finished panel width and round up. If buying equal pairs, round an odd panel count up to the next even count. Actual fullness is purchased flat width divided by track width.
+## Formula and method
+Target flat width = track width × desired fullness; Panels = ceiling(target flat width / panel width) (rounded up to next even number for center-opening pairs); Actual fullness = (panels × panel width) / track width.
+
+Multiply the full curtain rod or track width by your desired fullness multiplier to get the target combined flat width. Divide by the flat finished width of one panel and round up. When buying symmetrical pairs, increment any odd result by one panel, then recompute actual fullness.
 
 ## Limits
-Measure the track or pole, not just the glass. The appropriate fullness depends on heading style and fabric; check the supplier’s guidance. Panel width here is flat finished width. This does not calculate drop, hems or fabric yardage.
+Measure the full rod between finials or full track length, not just window glass. Blackout wraparound returns, center overlap, extra-thick thermal linings, and finished drop length are separate measurements.
 
 ## Supporting pages
 - [Method and assumptions](https://calculationgrove.com/method/)
 - [About, editorial responsibility and privacy](https://calculationgrove.com/about/)
 
 ## Sources
-- [John Lewis: curtain measuring and buying guide](https://www.johnlewis.com/buying-guides/curtains-buying-guide)
+- [Wikipedia: Window treatment styles and drapery](https://en.wikipedia.org/wiki/Window_treatment)
+- [Wikipedia: Curtain headings and fullness](https://en.wikipedia.org/wiki/Curtain)
 - [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
